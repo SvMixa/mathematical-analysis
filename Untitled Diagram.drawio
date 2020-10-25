@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T13:47:29.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="qDBVPwTIKE7iXH-wlfXK" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T14:20:49.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="BXK3i5yUTgU0kfmKg7S1" version="13.8.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1395" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F1FAEE" math="1" shadow="0">
+    <mxGraphModel dx="1186" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F1FAEE" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,46 +8,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlWFfvJK5qDcX6-V-NRR-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Математический анализ&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="120" width="220" height="100" as="geometry" />
+          <mxGeometry width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PlWFfvJK5qDcX6-V-NRR-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="339" y="300" />
+              <mxPoint x="219" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PlWFfvJK5qDcX6-V-NRR-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="339" y="360" />
-              <mxPoint x="330" y="360" />
-              <mxPoint x="330" y="410" />
+              <mxPoint x="219" y="360" />
+              <mxPoint x="210" y="360" />
+              <mxPoint x="210" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PlWFfvJK5qDcX6-V-NRR-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;shadow=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="339" y="350" />
-              <mxPoint x="280" y="350" />
-              <mxPoint x="280" y="510" />
-              <mxPoint x="360" y="510" />
-              <mxPoint x="360" y="520" />
+              <mxPoint x="219" y="350" />
+              <mxPoint x="160" y="350" />
+              <mxPoint x="160" y="510" />
+              <mxPoint x="240" y="510" />
+              <mxPoint x="240" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PlWFfvJK5qDcX6-V-NRR-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3 семестр&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="159" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PlWFfvJK5qDcX6-V-NRR-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Интегралы,зависящие от &lt;br&gt;параметра&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="330" height="80" as="geometry" />
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-9" target="PlWFfvJK5qDcX6-V-NRR-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PlWFfvJK5qDcX6-V-NRR-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Функциональные последовательности и ряды&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="330" height="80" as="geometry" />
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Интегралы,зависящие от &lt;br&gt;параметра&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PlWFfvJK5qDcX6-V-NRR-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Поверхностные интегралы и дифференциальные формы&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="330" height="80" as="geometry" />
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Функциональные последовательности и ряды&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Поверхностные интегралы и дифференциальные формы&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-19" target="PlWFfvJK5qDcX6-V-NRR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Непрерывность интеграла по параметру&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-22" value="Если существует функция \(f(x,\alpha)\), интегрируемая по x для каждого α, то существует \(J(\alpha) =\int f(x,\alpha)μ(dx)\)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="40" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-24" target="PlWFfvJK5qDcX6-V-NRR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-24" value="&lt;b&gt;Теорема&lt;/b&gt;&lt;br&gt;Пусть&amp;nbsp;&amp;nbsp;\(f(x,\alpha)\) непрерывна по альфа для каждого х и существует \(|f(x,\alpha)| &amp;lt;= \Phi (x)\), где \(\Phi (x)\) интегрируемая.&lt;br&gt;Тогда &amp;nbsp;&amp;nbsp;\(J(\alpha)\) непрерывна.&lt;br&gt;&lt;br&gt;Доказательство:&lt;br&gt;По теореме Лебега, если \(\alpha_n \rightarrow \alpha\) и \(|f_n|&amp;lt;=\Phi - \text{интегрируемой}\), тогда \(\int f_n \rightarrow \int f\)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Теорема Лебега&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="120" width="280" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
