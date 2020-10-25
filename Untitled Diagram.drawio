@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T13:16:16.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.8.2" etag="6iE94mB-pvdInQW8pxO4" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-25T13:47:29.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="qDBVPwTIKE7iXH-wlfXK" version="13.8.2" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1395" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F1FAEE" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;curved=1;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-1" target="PlWFfvJK5qDcX6-V-NRR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;Математический анализ&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="120" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="360" />
+              <mxPoint x="330" y="360" />
+              <mxPoint x="330" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;shadow=0;sketch=1;" edge="1" parent="1" source="PlWFfvJK5qDcX6-V-NRR-3" target="PlWFfvJK5qDcX6-V-NRR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="350" />
+              <mxPoint x="280" y="350" />
+              <mxPoint x="280" y="510" />
+              <mxPoint x="360" y="510" />
+              <mxPoint x="360" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3 семестр&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Интегралы,зависящие от &lt;br&gt;параметра&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Функциональные последовательности и ряды&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWFfvJK5qDcX6-V-NRR-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Поверхностные интегралы и дифференциальные формы&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="330" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
